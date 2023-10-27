@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Fuentes Calientes",
+      "country": "Spain",
+      "date": "2023-10-24T07:21:09.569Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.68063802521456",
+        "lng": "-0.9887695312500001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Manduel",
+      "country": "France",
+      "date": "2023-10-24T08:03:02.404Z",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "position": {
+        "lat": "43.81471121600004",
+        "lng": "4.482421875000001"
+      },
+      "id": 6
+    }
+  ]
+}
